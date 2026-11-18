@@ -1,6 +1,7 @@
 # Betty Adventure
 
 **Created by:** Afia Rashid
+Used Codex
 
 A small arcade platform game made with Python and Tkinter. Play as a pixel-art cat, stomp green slimes, collect coins, and find the way home.
 
